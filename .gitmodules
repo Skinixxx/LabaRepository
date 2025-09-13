@@ -1,0 +1,3 @@
+[submodule "libs/cool-library"]
+	path = libs/cool-library
+	url = https://github.com/dolfbarr/react-log-hook.git
